@@ -27,5 +27,3 @@ basic commands
 
 installing git 
 http://git-scm.com/download/win
-
-
