@@ -1,0 +1,31 @@
+git 
+version control system - for tracking changes in computer files
+-distributed version control
+-coordinates work between multiple developers
+-tracks who made what changes and when
+-revert back at anytime
+-local % remote repositorys (github)
+-keeps track of code history
+-takes 'snapshots' pf your files
+-you decide when to take snapshots by making a commit
+-you can visit any snapshot at any time
+-you can stage files before committing
+
+basic commands
+-$ git init  //initialixe local git repository
+-$ git add <file>  //add files to index
+-$ git status  //check status of working tree
+-$ git commit  //commit changes in index
+-$ git rm --cached <file>  //removes the file from git
+-$ git add *.html  //will add any html files from the folder 
+-$ git add .  //will add all the files in the folder to the repositary
+(remote repositorys)
+-$ git push  //push to remote repository
+-$ git pull  //push latest from remote repository
+-$ git clone  //clone repositary into a new directory
+
+
+installing git 
+http://git-scm.com/download/win
+
+
